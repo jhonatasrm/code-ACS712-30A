@@ -27,7 +27,7 @@ valor_Corrente = valor_Corrente * 1000;
 valor_Corrente = valor_Corrente / 66;
 valor_Corrente = valor_Corrente / 1.41421356;
 
-Serial.print("BT High Performance");
+Serial.print("Leitura");
 Serial.print("Corrente = ");
 
 Serial.print(valor_Corrente);
